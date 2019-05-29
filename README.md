@@ -1,0 +1,8 @@
+#Current Dev Jobs - Brisbane
+ React.JS Front End Dev
+ Node.JS Dev
+ Solutions Architect (Contract)
+ Wordpress/PHP Dev
+ PHP Contract
+ Senior Full Stack Developer (Ruby on Rails)
+ 	Email mike@seventwenty.com.au for more info 
